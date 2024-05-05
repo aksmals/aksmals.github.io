@@ -1,10 +1,1 @@
 test update
-test up 2
-test up 3
-test up 4
-test up 5
-test up 6
-test up 7
-test up 8
-test up 9
-test up 10
